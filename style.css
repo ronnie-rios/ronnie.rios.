@@ -1,0 +1,26 @@
+header {
+    padding: 0px;
+    margin: 0px;
+    background-color: darkgray;
+}
+
+h1 {
+    padding: 20px;
+    margin: 0px;
+    margin-bottom: 20 px;
+    text-align: center;
+}
+
+#container {
+    font-size: 15px;
+
+}
+
+#main-bio,
+#bio-image {
+  float: left;
+}
+
+#contact-info {
+    float: right;
+}
